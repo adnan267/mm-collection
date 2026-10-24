@@ -1,0 +1,274 @@
+{
+ "shop": {
+  "phone": "923007235997",
+  "name": "MM Collection Faisalabad"
+ },
+ "products": [
+  {
+   "n": "Midnight Black",
+   "t": "Black with floral embroidery and a printed dupatta",
+   "c": [
+    "Black shirt with red and gold floral work",
+    "Printed dupatta with a rust border",
+    "Matching black trouser"
+   ],
+   "i": [
+    "/images/midnight-black-1.jpg",
+    "/images/midnight-black-2.jpg",
+    "/images/midnight-black-3.jpg"
+   ],
+   "id": "midnight-black",
+   "price": 4000
+  },
+  {
+   "n": "Indigo Stripe",
+   "t": "Striped print with blue roses and a polka dot dupatta",
+   "c": [
+    "Black and stone stripes with blue floral print",
+    "Navy dupatta with green and white dots",
+    "Teal zigzag border on the shirt"
+   ],
+   "i": [
+    "/images/indigo-stripe-1.jpg",
+    "/images/indigo-stripe-2.jpg",
+    "/images/indigo-stripe-3.jpg"
+   ],
+   "id": "indigo-stripe",
+   "price": 4000
+  },
+  {
+   "n": "Navy Heritage",
+   "v": "Emirah | Bismil Vol-61",
+   "t": "Deep navy with a soft beige motif",
+   "c": [
+    "Digital print premium viscose shirt",
+    "Digital print premium dobby viscose dupatta",
+    "Dyed premium viscose trouser"
+   ],
+   "i": [
+    "/images/navy-heritage-1.jpg",
+    "/images/navy-heritage-2.jpg",
+    "/images/navy-heritage-3.jpg"
+   ],
+   "id": "navy-heritage",
+   "price": 4000
+  },
+  {
+   "n": "Cocoa Bloom",
+   "v": "Emirah | Bismil Vol-61",
+   "t": "Dark brown with golden florals",
+   "c": [
+    "Digital print premium viscose shirt",
+    "Digital print premium dobby viscose dupatta",
+    "Dyed premium viscose trouser"
+   ],
+   "i": [
+    "/images/cocoa-bloom-1.jpg",
+    "/images/cocoa-bloom-2.jpg",
+    "/images/cocoa-bloom-3.jpg"
+   ],
+   "id": "cocoa-bloom",
+   "price": 4000
+  },
+  {
+   "n": "Golden Mustard",
+   "v": "Emirah | Bismil Vol-61",
+   "t": "Mustard with a navy floral border",
+   "c": [
+    "Digital print premium viscose shirt",
+    "Digital print premium dobby viscose dupatta",
+    "Dyed premium viscose trouser"
+   ],
+   "i": [
+    "/images/golden-mustard-1.jpg",
+    "/images/golden-mustard-2.jpg",
+    "/images/golden-mustard-3.jpg"
+   ],
+   "id": "golden-mustard",
+   "price": 4000
+  },
+  {
+   "n": "Peacock Teal",
+   "v": "Emirah | Bismil Vol-61",
+   "t": "Deep teal with pink and rust roses",
+   "c": [
+    "Digital print premium viscose shirt",
+    "Digital print premium dobby viscose dupatta",
+    "Dyed premium viscose trouser"
+   ],
+   "i": [
+    "/images/peacock-teal-1.jpg",
+    "/images/peacock-teal-2.jpg",
+    "/images/peacock-teal-3.jpg"
+   ],
+   "id": "peacock-teal",
+   "price": 4000
+  },
+  {
+   "n": "Dusty Rose",
+   "t": "Dusty rose with a floral print and zigzag border",
+   "c": [
+    "Rose shirt with floral print",
+    "Printed dupatta with a matching zigzag border",
+    "Rose trouser to match"
+   ],
+   "i": [
+    "/images/dusty-rose-1.jpg",
+    "/images/dusty-rose-2.jpg"
+   ],
+   "id": "dusty-rose",
+   "price": 4000
+  },
+  {
+   "n": "Olive Mosaic",
+   "t": "Olive with a diamond lattice print",
+   "c": [
+    "Olive shirt with diamond lattice print",
+    "Printed dupatta in navy and gold",
+    "Olive trouser to match"
+   ],
+   "i": [
+    "/images/olive-mosaic-1.jpg",
+    "/images/olive-mosaic-2.jpg",
+    "/images/olive-mosaic-3.jpg"
+   ],
+   "id": "olive-mosaic",
+   "price": 4000
+  },
+  {
+   "n": "Cotton Gray, Design 01",
+   "v": "Orang | Lunara Vol-30",
+   "t": "Cotton gray with dark roses and a swirl dupatta",
+   "c": [
+    "Shirt: digital printed premium viscose, 3.00 mtr",
+    "Dupatta: digital printed check dobby viscose, 2.50 mtr",
+    "Trouser: superior dyed viscose, 2.50 mtr"
+   ],
+   "i": [
+    "/images/cotton-gray-design-01-1.jpg"
+   ],
+   "id": "cotton-gray-design-01",
+   "price": 4000
+  },
+  {
+   "n": "Navy Blue, Design 02",
+   "v": "Orang | Lunara Vol-30",
+   "t": "Navy with orange florals and a striped dupatta",
+   "c": [
+    "Shirt: digital printed premium viscose, 3.00 mtr",
+    "Dupatta: digital printed check dobby viscose, 2.50 mtr",
+    "Trouser: superior dyed viscose, 2.50 mtr"
+   ],
+   "i": [
+    "/images/navy-blue-design-02-1.jpg"
+   ],
+   "id": "navy-blue-design-02",
+   "price": 4000
+  },
+  {
+   "n": "Sage Cream, Design 03",
+   "v": "Orang | Lunara Vol-30",
+   "t": "Cream fading to brown with a geometric dupatta",
+   "c": [
+    "Shirt: digital printed premium viscose, 3.00 mtr",
+    "Dupatta: digital printed check dobby viscose, 2.50 mtr",
+    "Trouser: superior dyed viscose, 2.50 mtr"
+   ],
+   "i": [
+    "/images/sage-cream-design-03-1.jpg"
+   ],
+   "id": "sage-cream-design-03",
+   "price": 4000
+  },
+  {
+   "n": "Burnt Terracotta, Design 04",
+   "v": "Orang | Lunara Vol-30",
+   "t": "Terracotta florals with an animal print dupatta",
+   "c": [
+    "Shirt: digital printed premium viscose, 3.00 mtr",
+    "Dupatta: digital printed check dobby viscose, 2.50 mtr",
+    "Trouser: superior dyed viscose, 2.50 mtr"
+   ],
+   "i": [
+    "/images/burnt-terracotta-design-04-1.jpg"
+   ],
+   "id": "burnt-terracotta-design-04",
+   "price": 4000
+  },
+  {
+   "n": "Black, Design 05",
+   "v": "Orang | Lunara Vol-30",
+   "t": "Black with bold leaf print and an ikat dupatta",
+   "c": [
+    "Shirt: digital printed premium viscose, 3.00 mtr",
+    "Dupatta: digital printed check dobby viscose, 2.50 mtr",
+    "Trouser: superior dyed viscose, 2.50 mtr"
+   ],
+   "i": [
+    "/images/black-design-05-1.jpg"
+   ],
+   "id": "black-design-05",
+   "price": 4000
+  },
+  {
+   "n": "Deep Plum, Design 06",
+   "v": "Orang | Lunara Vol-30",
+   "t": "Deep plum with pink paisley motifs",
+   "c": [
+    "Shirt: digital printed premium viscose, 3.00 mtr",
+    "Dupatta: digital printed check dobby viscose, 2.50 mtr",
+    "Trouser: superior dyed viscose, 2.50 mtr"
+   ],
+   "i": [
+    "/images/deep-plum-design-06-1.jpg"
+   ],
+   "id": "deep-plum-design-06",
+   "price": 4000
+  },
+  {
+   "n": "Soft Voile, Design 07",
+   "v": "Orang | Lunara Vol-30",
+   "t": "Blush pink with floral diamonds",
+   "c": [
+    "Shirt: digital printed premium viscose, 3.00 mtr",
+    "Dupatta: digital printed check dobby viscose, 2.50 mtr",
+    "Trouser: superior dyed viscose, 2.50 mtr"
+   ],
+   "i": [
+    "/images/soft-voile-design-07-1.jpg"
+   ],
+   "id": "soft-voile-design-07",
+   "price": 4000
+  },
+  {
+   "n": "Deep Burgundy, Design 08",
+   "v": "Orang | Lunara Vol-30",
+   "t": "Burgundy with pink florals and a printed border",
+   "c": [
+    "Shirt: digital printed premium viscose, 3.00 mtr",
+    "Dupatta: digital printed check dobby viscose, 2.50 mtr",
+    "Trouser: superior dyed viscose, 2.50 mtr"
+   ],
+   "i": [
+    "/images/deep-burgundy-design-08-1.jpg"
+   ],
+   "id": "deep-burgundy-design-08",
+   "price": 4000
+  },
+  {
+   "n": "Soft Pink, Design 09",
+   "v": "Orang | Lunara Vol-30",
+   "t": "Bright pink bandhani print with a striped dupatta",
+   "c": [
+    "Shirt: digital printed premium viscose, 3.00 mtr",
+    "Dupatta: digital printed check dobby viscose, 2.50 mtr",
+    "Trouser: superior dyed viscose, 2.50 mtr"
+   ],
+   "i": [
+    "/images/soft-pink-design-09-1.jpg"
+   ],
+   "id": "soft-pink-design-09",
+   "price": 4000
+  }
+ ]
+}
